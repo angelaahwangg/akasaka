@@ -143,7 +143,7 @@ hr {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  height: 100vh;
+  height: 750px;
   text-align: center;
   appearance: none;
 }
