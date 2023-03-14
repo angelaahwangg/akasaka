@@ -139,6 +139,7 @@ hr {
   /* background: url("../images/home-bg.jpg"); */
   background-image: url("../images/home-bg.jpg");
   background-size: cover;
+  background-color: "blue";
   -webkit-background-size: cover; /* safari may need this */
   color: #ffffff;
   display: -webkit-box;
