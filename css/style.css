@@ -137,7 +137,7 @@ hr {
 /* home section */
 #home {
   /* background: url("../images/home-bg.jpg"); */
-  background-image: url("../images/home-bg.jpg");
+  background-image: url("../images/blur-bg.png");
   background-size: cover;
   background-color: "blue";
   -webkit-background-size: cover; /* safari may need this */
