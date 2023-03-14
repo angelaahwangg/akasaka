@@ -53,7 +53,7 @@ hr {
 }
 
 .parallax-section {
-  background-attachment: fixed !important;
+  /* background-attachment: fixed !important; */
   background-size: cover !important;
 }
 
