@@ -1,4 +1,6 @@
 // preloader
+
+// $("home").css("background-image", 'url("../images/home-bg.jpg)');
 $(window).load(function () {
   $(".preloader").fadeOut(1000); // set duration in brackets
 });
