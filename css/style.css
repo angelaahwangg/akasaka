@@ -6,6 +6,11 @@ http://www.tooplate.com/view/2076-zentro
 
 */
 
+html {
+  height: 100vh; /* set viewport constraint */
+  min-height: 100%; /* enforce height */
+}
+
 body {
   background: #ffffff;
   font-family: "Roboto", sans-serif;
@@ -133,7 +138,8 @@ hr {
 #home {
   /* background: url("../images/home-bg.jpg"); */
   background-image: url("../images/home-bg.jpg");
-  background-size: 100%;
+  background-size: cover;
+  -webkit-background-size: cover; /* safari may need this */
   color: #ffffff;
   display: -webkit-box;
   display: -webkit-flex;
