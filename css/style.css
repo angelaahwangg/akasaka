@@ -132,6 +132,7 @@ hr {
 /* home section */
 #home {
   background: url("../images/home-bg.jpg");
+  background-size: 100%;
   color: #ffffff;
   display: -webkit-box;
   display: -webkit-flex;
