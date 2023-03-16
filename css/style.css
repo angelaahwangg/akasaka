@@ -248,6 +248,7 @@ hr {
   font-size: 20px;
   color: #444;
   margin-bottom: 10px;
+  max-width: 90%;
 }
 #restaurant-menu .menu-item-description {
   font-size: 12px;
