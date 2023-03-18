@@ -271,6 +271,7 @@ hr {
 }
 
 #restaurant-menu .platter-image {
+  width: 100%;
   display: block;
   margin: auto;
 }
