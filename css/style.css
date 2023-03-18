@@ -212,7 +212,7 @@ hr {
 }
 #restaurant-menu img {
   width: 300px;
-  box-shadow: 15px 0 #a7c44c;
+  /* box-shadow: 15px 0 #a7c44c; */
 }
 #restaurant-menu h3 {
   padding: 10px 0;
@@ -260,6 +260,21 @@ hr {
   color: #555;
   margin-top: -36px;
 }
+
+#restaurant-menu .platter-title {
+  font-size: 25px;
+  display: block;
+  font-weight: 400;
+  color: #444;
+  margin: 20px 0;
+  text-align: center;
+}
+
+#restaurant-menu .platter-image {
+  display: block;
+  margin: auto;
+}
+
 /* gallery section */
 #gallery {
   padding-top: 80px;
